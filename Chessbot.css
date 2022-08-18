@@ -42,7 +42,7 @@ body{
     width: 100%;
     height: 50%;
     margin: 0px 0%;
-    background: url("../img/Moves.png");
+    background: url("Moves.png");
     display: flex;
     justify-content:center;
     align-items: center;
